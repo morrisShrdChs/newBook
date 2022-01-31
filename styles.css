@@ -1,17 +1,4 @@
-.success {
-	color: green;
-#elem1 {
-    color:red;
-}
-.error {
-	text-align: center;
-}
-.large {
-	font-size: 30px;
-}
-#elem2 {
-    color:green;
-}
-#elem3 {
-    color:skyblue;
-} 
+#elem li.text {
+    .eee.zzz.ccc {
+        color:red;
+    } 
