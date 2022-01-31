@@ -1,7 +1,4 @@
-p {
-    text-indent: 50px;
-    text-align: justify;
-    width: 400px;
-	text-decoration: overline;
+p {text-decoration: overline;
     color:red
-} 
+	text-decoration: line-through;
+    color:green}
