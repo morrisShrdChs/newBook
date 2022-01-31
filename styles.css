@@ -1,6 +1,7 @@
 p {
-    font: bold 40px/300px Arial;
-    color:red;
     font: bold italic 40px/50px Arial;
     line-height: 60px;
+    text-indent: 50px;
+    text-align: justify;
+    width: 400px;
 }
