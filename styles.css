@@ -1,6 +1,6 @@
 p {
-    font-size: 30px;
-    line-height: 2.5;
     font: 13px/20px 'Times New Roman';
 
+    font: bold 40px/300px Arial;
+    color:red;
 } 
