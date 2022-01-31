@@ -1,6 +1,29 @@
-p {
-	width: 1000px;
 tr {
     width: 400px;
     height: 300px;
+}
+h1 {
+    text-align: left;
+}
+h2 {
+    text-align: center;
+}
+td {
+    width: 500px;
+}
+th {
+    text-align: left;
+}
+td {
+    text-align: center;
+}
+p {
+    width: 300px;
+}
+p {
+    text-align: justify;
+}
+h2 {
+    width: 300px;
+    text-align: center;
 } 
