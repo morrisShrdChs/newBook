@@ -1,4 +1,4 @@
-#elem li.text {
-    .eee.zzz.ccc {
+.eee.zzz.ccc {
+ #elem+li {
         color:red;
-    } 
+    }
