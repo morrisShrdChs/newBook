@@ -1,4 +1,5 @@
-p {text-decoration: overline;
-    color:red
+p {
 	text-decoration: line-through;
-    color:green}
+    color:green
+	text-decoration: underline;
+}
