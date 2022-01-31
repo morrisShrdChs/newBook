@@ -1,13 +1,17 @@
 .success {
 	color: green;
+#elem1 {
+    color:red;
 }
 .error {
-	color: red;
 	text-align: center;
 }
 .large {
 	font-size: 30px;
 }
-.small {
-	font-size: 20px;
+#elem2 {
+    color:green;
+}
+#elem3 {
+    color:skyblue;
 } 
