@@ -1,15 +1,13 @@
-.b1 {
-    color:red;
-.eee, .zzz {
-	font-size: 20px;
-	line-height: 1.5;
-	font-family: Arial;
+.success {
+	color: green;
 }
-.b2 {
-    color:green;
+.error {
+	color: red;
+	text-align: center;
 }
-.b3 {
-    color:skyblue;
-.zzz {
+.large {
 	font-size: 30px;
 }
+.small {
+	font-size: 20px;
+} 
