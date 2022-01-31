@@ -1,8 +1,5 @@
-#elem {
-	width: 100px;
-	height: 100px;
-	border-radius: 50%;
-	border: 1px solid green;
 ul {
-	list-style-type: square;
-}
+	list-style-type: none;
+ol {
+	list-style-type: lower-alpha;
+} 
