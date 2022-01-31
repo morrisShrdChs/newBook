@@ -1,7 +1,3 @@
-ul i {
-    p {
-        color:red;
-    }
-    p i {
-        color:green;
-    } 
+p b i {
+    color:red;
+}
