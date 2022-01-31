@@ -1,13 +1,6 @@
 p {
-    color: orange;
-}
-h1 {
-    color: green;
-}
-h2 {
-    color: blue;
-}
-h3 {
-    color: red;
 	width: 1000px;
-}
+tr {
+    width: 400px;
+    height: 300px;
+} 
