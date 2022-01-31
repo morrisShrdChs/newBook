@@ -1,11 +1,7 @@
-h1, h2, h3 {
-    text-align: center;
-}
 ul i {
-    color:red;
-}
-h3 {
-    font-size: 16px;
-p {
-    color:green;
-}
+    p {
+        color:red;
+    }
+    p i {
+        color:green;
+    } 
