@@ -1,5 +1,11 @@
-ul {
-	list-style-type: none;
-ol {
-	list-style-type: lower-alpha;
-} 
+#elem {
+	padding-top:    50px; /* сверху */
+	padding-right:  30px; /* справа */
+	padding-bottom: 60px; /* снизу */
+	padding-left:   30px; /* слева */
+	
+	width: 200px;
+	height: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
