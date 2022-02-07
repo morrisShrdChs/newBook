@@ -1,71 +1,102 @@
 #parent {
-	width: 150px;
-	height: 480px;
 	width: 500px;
 	height: 500px;
+	width: 400px;
+	height: 400px;
 	margin: 0 auto;
-	border: 1px solid #000;
 	border: 1px solid #4DEE99;
+	border: 1px solid #C4CD14;
 	position: relative;
 	background-color: white;
     border-radius: 50%;
     background-color:#4DEE99;
+    background-color:#C4CD14;
 
 }
+
 #child-1{
 	width: 100px;
 	height: 100px;
+	width: 80px;
+	height: 80px;
 	border: 1px solid green;
 	position: absolute;
-	top:75px;
-	left:25px;
-	border: 1px solid #000;
-	background-color: red;
     top: 70px;
     left: 100px;
+    left: 80px;
 	border: 1px solid #fff;
 	background-color: white;
 	border-radius: 50%;
+	border-radius: 40px;
+	z-index: 3;
 }
+
 #child-2{
 	width: 100px;
 	height: 100px;
+	width: 80px;
+	height: 80px;
 	border: 1px solid green;
 	position: absolute;
 	bottom:60px;
-	top: 190px ;
-	left: 300px;
-	border: 1px solid #000;
-	background-color: yellow;
     top: 70px;
     right: 100px;
+    right: 80px;
 	background-color: white;
 	border: 1px solid #fff;
 	border-radius: 50%;
+	z-index: 3;
 }
+
 #child-3{
-	width: 100px;
-	height: 100px;
 	width: 70px;
 	height: 70px;
 	border: 1px solid green;
 	position: absolute;
 	bottom:60px;
-	top: 305px ;
-	left: 25px;
 	top: 200px ;
 	left: 215px;
+	left: 165px;
 	right: 60px;
-	border: 1px solid #000;
-	background-color: green;
+	border-radius: 50%;	
 	background-color: white;
 	border: 1px solid #fff;
+	z-index: 3;
 }
 #child-4{
 	background-color: #fff;
     position: absolute;
     left: 150px;
     top: 350px;
+    left: 100px;
+    top: 155px;
     width: 200px;
     height: 20px;
+    height: 200px;
+    border-radius: 100px;
+    z-index: 1;
+}
+#child-4-1{
+	background-color: #fff;
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    left: 100px;
+    top: 155px;
+    width: 200px;
+    height: 20px;
+    height: 200px;
+    border-radius: 100px;
+    z-index: 1;
+}
+
+#child-4-2{
+	background-color: #C4CD14;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    z-index: 2;
 }
