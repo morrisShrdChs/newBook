@@ -1,28 +1,30 @@
 #parent {
-	width: 600px;
-	height: 400px;
 	width: 150px;
 	height: 480px;
+	width: 500px;
+	height: 500px;
 	margin: 0 auto;
-	border: 1px solid #4DEE99;
 	border: 1px solid #000;
+	border: 1px solid #4DEE99;
 	position: relative;
-	background-color: #4DEE99;
 	background-color: white;
+    border-radius: 50%;
+    background-color:#4DEE99;
+
 }
 #child-1{
 	width: 100px;
 	height: 100px;
 	border: 1px solid green;
 	position: absolute;
-	top:60px;
-	left:60px;
-	border: 1px solid #fff;
-	background-color: white;
 	top:75px;
 	left:25px;
 	border: 1px solid #000;
 	background-color: red;
+    top: 70px;
+    left: 100px;
+	border: 1px solid #fff;
+	background-color: white;
 	border-radius: 50%;
 }
 #child-2{
@@ -32,23 +34,38 @@
 	position: absolute;
 	bottom:60px;
 	top: 190px ;
-	left: 25px;
+	left: 300px;
 	border: 1px solid #000;
 	background-color: yellow;
+    top: 70px;
+    right: 100px;
+	background-color: white;
+	border: 1px solid #fff;
 	border-radius: 50%;
 }
 #child-3{
 	width: 100px;
 	height: 100px;
+	width: 70px;
+	height: 70px;
 	border: 1px solid green;
 	position: absolute;
 	bottom:60px;
 	top: 305px ;
 	left: 25px;
+	top: 200px ;
+	left: 215px;
 	right: 60px;
-	border: 1px solid #fff;
-	background-color: white;
 	border: 1px solid #000;
 	background-color: green;
-	border-radius: 50%;
+	background-color: white;
+	border: 1px solid #fff;
+}
+#child-4{
+	background-color: #fff;
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    width: 200px;
+    height: 20px;
 }
