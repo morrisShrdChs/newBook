@@ -3,14 +3,25 @@
 	width: 500px;
 	height: 400px;
 	margin: 0 auto;
-	border: 1px solid green;
+	border: 1px solid rgb(75, 216, 146);
+	background-color: rgb(75, 216, 146);
 	margin: auto;
 }
 #child {
 	position: absolute;
-	top: 80px;
-	left: 100px;
-	width: 90px;
-	height: 90px;
-	border: 1px solid red;
+	top: 50px;
+	left: 50px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid rgb(75, 216, 146);
+	background-color: white;
+}
+#child1 {
+	position: absolute;
+	top: 260px;
+	left: 340px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid rgb(75, 216, 146);
+	background-color: white;
 }
