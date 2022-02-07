@@ -1,6 +1,7 @@
 .parent {
 	display: flex; /* потомки будут флекс элементами */
 	border: 1px solid red;
+	padding: 20px;
 }
 .child {
 	width: 100px;
