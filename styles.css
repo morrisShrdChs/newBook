@@ -1,5 +1,11 @@
-ul {
-	list-style-type: none;
-ol {
-	list-style-type: lower-alpha;
-} 
+.parent {
+	display: flex; /* потомки будут флекс элементами */
+	width: 700px;
+	height: 200px;
+	border: 1px solid red;
+}
+.child {
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
+}
