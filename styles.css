@@ -5,17 +5,17 @@
 	}
 #elem2 {
 	position: absolute;
-	top: 75px;
-	left: 75px;
+	top: 8px;
+	left: 80px;
 	width: 50px;
 	height: 50px;
-	border: 1px solid green;
+	border: 1px solid blue;
 	}
 #elem3 {
 	width: 50px;
 	height: 50px;
-	border: 1px solid blue;
+	border: 1px solid green;
 	position: absolute;
-	top:140px;
+	top:8px;
 	left: 150px;
 	}
