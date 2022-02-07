@@ -1,5 +1,5 @@
 div {
-	display: block;
+	display: inline;
 	width: 150px;
 	height: 50px;
 	border: 1px solid red;
