@@ -1,11 +1,10 @@
 .parent {
 	display: flex; /* потомки будут флекс элементами */
 	width: 700px;
-	height: 200px;
 	border: 1px solid red;
 }
 .child {
 	width: 100px;
-	height: 50px;
+	height: 80px;
 	border: 1px solid green;
 }
