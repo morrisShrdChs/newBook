@@ -1,5 +1,26 @@
-ul {
-	list-style-type: none;
-ol {
-	list-style-type: lower-alpha;
-} 
+#parent {
+	position: relative;
+	width: 300px;
+	height: 200px;
+	margin: auto;
+	margin-top: 40px;
+	border: 1px solid green;
+}
+#child {
+	position: absolute;
+	top: 0px;
+	left: -60px;
+	
+	width: 40px;
+	height: 40px;
+	border: 1px solid red;
+}
+#child1 {
+	position: absolute;
+	top: 0px;
+	left: 320px;
+	
+	width: 40px;
+	height: 40px;
+	border: 1px solid red;
+}
