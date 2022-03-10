@@ -1,5 +1,10 @@
-ul {
-	list-style-type: none;
-ol {
-	list-style-type: lower-alpha;
-} 
+div {
+	width: 1000px;
+	text-align: justify;
+}
+img {
+	float: left;
+}
+#amogus{
+	float: right;
+}
