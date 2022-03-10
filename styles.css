@@ -1,5 +1,17 @@
-ul {
-	list-style-type: none;
-ol {
-	list-style-type: lower-alpha;
-} 
+div {
+	width: 500px;
+	border: 1px solid black;
+	text-align: justify;
+	margin-left: 650px;
+}
+p {
+	margin-left: 30px;
+}
+img {
+	float: left;
+	margin-right: 30px;
+}
+#img2 {
+	float: right;
+	margin-top: 100px;
+}
