@@ -1,5 +1,13 @@
-ul {
-	list-style-type: none;
-ol {
-	list-style-type: lower-alpha;
-} 
+.parent {
+	border: 1px solid black;
+	text-align: justify;
+	width: 900px;
+	margin-left: 600px;
+}
+.child {
+	float: right;
+	width: 200px;
+	height: 100px;
+	border: 1px solid green;
+	margin-top: 60px;
+}
